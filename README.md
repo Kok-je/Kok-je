@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abel&size=24&duration=4000&color=3891E1&multiline=true&width=450&height=80&lines=Hey%2C+I'm+Shawn+Kok;Computer+Science+Student+at+NUS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Instrument+Sans&size=25&duration=1500&pause=800&color=41B883&multiline=true&width=435&lines=Ohayogozaimasu%2C+I+am+Shawn+Kok!+%F0%9F%97%BF)](https://git.io/typing-svg)
 
-![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kok-je&show_icons=true&count_private=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kok-je)](https://github.com/anuraghazra/github-readme-stats)
+![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kok-je&show_icons=true&count_private=true&theme=vue&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kok-je&size_weight=0&count_weight=1&layout=compact&theme=vue&bg_color=00000000&hide_border=true&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
